@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Hello. I'm Chibuike Orji-Oko."
+title: "Chibuike Orji-Oko."
 email: 'chibuikelawrence@gmail.com'
-description: "I'm a Data Scientist from Nigeria building solutions for businesses."
+description: "A Data Scientist from Nigeria."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chibykelaw.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'orjibyk'
@@ -92,7 +92,7 @@ pagination:
 footer_text: '© 2022 Chibuike Orji-Oko'
 admin_name: 'Chibuike Orji-Oko'
 google_analytics: "" # Update with your own tracking ID
-enable_contact: false
+enable_contact: true
 
 #### Phantom Navigation menu
 enable_nav: true
