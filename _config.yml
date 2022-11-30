@@ -18,9 +18,9 @@ email: 'chibuikelawrence@gmail.com'
 description: "I'm a Data Scientist from Nigeria building solutions for businesses."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chibykelaw.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'jamigibbs'
-github_username: 'jamigibbs'
-medium_username: 'blog.jamigibbs.com'
+twitter_username: 'orjibyk'
+github_username: 'chibykelaw'
+linkedin_username: 'https://www.linkedin.com/in/chibuike-orji-oko'
 
 # Build settings
 markdown: kramdown
@@ -89,9 +89,9 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
-google_analytics: "UA-9999999-99" # Update with your own tracking ID
+footer_text: '© 2022 Chibuike Orji-Oko'
+admin_name: 'Chibuike Orji-Oko'
+google_analytics: "" # Update with your own tracking ID
 enable_contact: false
 
 #### Phantom Navigation menu
