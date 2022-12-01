@@ -17,7 +17,7 @@ title: "Chibuike Orji-Oko."
 email: 'chibuikelawrence@gmail.com'
 description: "A Data Scientist from Nigeria."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://chibykelaw.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://chibykelaw.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'orjibyk'
 github_username: 'chibykelaw'
 linkedin_username: 'https://www.linkedin.com/in/chibuike-orji-oko'
